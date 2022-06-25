@@ -16,7 +16,7 @@ This repo renders the [Twilio Open API Spec](https://github.com/twilio/twilio-oa
 - [View the Swagger doc](http://johnchaffee.wiki/twilio-oai-swagger-ui/)
 - Click the Authorize button on the top right and enter your `TWILIO_ACCOUNT_SID` and `TWILIO_AUTH_TOKEN` as the username and password.
 - Click the method you want to run to expand it.
-  - For example, to send an SMS click on the [CreateMessage](./#/default/CreateMessage) method at the path `POST /2010-04-01/Accounts/{AccountSid}/Messages.json`
+  - For example, to send an SMS click on the [CreateMessage](https://johnchaffee.wiki/twilio-oai-swagger-ui/#/default/CreateMessage) method at the path `POST /2010-04-01/Accounts/{AccountSid}/Messages.json`
 - Click the `Try it out` button
   - Fill in the required parametes (e.g. `AccountSid`, `Body`, `From`, `To`)
   - Uncheck all of the `Send empty value` checkboxes.
